@@ -7,7 +7,11 @@
 - [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)
 - [Lean Git Branching](https://learngitbranching.js.org/)
 
-## vscode exgension
+## Git best practices
+
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
+## vscode extension
 
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
